@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Oswald|Arvo';
+
 *{
     padding: 0;
     margin: 0;
@@ -6,14 +8,14 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: Georgia, Garamond, serif;
+    font-family: Arvo, Garamond, serif;
 }
 html,body{
     background-color: #d4d4d4;
 	
 }
 h1{
-    font-family: Tahoma, Helvetica, sans-serif;
+    font-family: Oswald, Helvetica, sans-serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }

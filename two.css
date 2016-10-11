@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Oswald|Arvo';
+
 *{
     padding: 0;
     margin: 0;
@@ -6,18 +8,18 @@
 html{
     font-size: 16px;
     line-height: 1.6;
-    font-family: Trebuchet, Arial, sans-serif;
+    font-family: Oswald, Arial, sans-serif;
 }
 html,body{
     background-color: #d4d4d4;
 }
 h1{
-    font-family: "Times New Roman", Georgia, serif;
+    font-family: Arvo, "Times New Roman", serif;
     font-size: 3.998rem;
     padding:1rem 2rem;
 }
 h2{
-    font-family: Garamond, Georgia, serif;
+    font-family: Arvo, Georgia, serif;
     font-size: 2.827rem;
     padding:1rem 2rem;
 }
